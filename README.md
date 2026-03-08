@@ -1,10 +1,10 @@
-# T3Code
+# X3Code
 
 > The best way to code with AI
 
 A modern desktop GUI for coding agents. Chat with AI, manage files, and see real-time output in a beautiful interface.
 
-![T3Code](./public/og-image.svg)
+![X3Code](./public/og-image.svg)
 
 ## Features
 
@@ -45,4 +45,4 @@ npm run preview
 
 ---
 
-Built with ❤️ by the T3Code team
+Built with ❤️ by the X3Code team
