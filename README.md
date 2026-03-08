@@ -14,7 +14,7 @@ A modern desktop GUI for coding agents. Chat with AI, manage files, and see real
 
 ## Download
 
-Download the latest version from the [releases](https://github.com/Sync-Pro/t3code-releases) page.
+Download the latest version from the [releases](https://github.com/Sync-Pro/x3code-releases) page.
 
 ## Tech Stack
 

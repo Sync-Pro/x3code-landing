@@ -22,7 +22,7 @@ export const Landing: React.FC = () => {
           <nav className="flex items-center gap-6">
             <a href="#features" className="text-gray-600 hover:text-blue-600 transition-colors">Features</a>
             <a href="#download" className="text-gray-600 hover:text-blue-600 transition-colors">Download</a>
-            <a href="https://github.com/Sync-Pro/t3code-landing" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600">
+            <a href="https://github.com/Sync-Pro/x3code-landing" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600">
               <VscGithub className="text-xl" />
             </a>
           </nav>
@@ -42,7 +42,7 @@ export const Landing: React.FC = () => {
             A modern desktop GUI for coding agents. Chat with AI, manage files, and see real-time output.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <a href="https://github.com/Sync-Pro/t3code-releases/raw/master/X3Code%20Setup%201.0.0.exe" className="flex items-center gap-2 px-8 py-4 bg-blue-600 text-white rounded-lg font-semibold text-lg hover:bg-blue-700 transition-all hover:scale-105 shadow-lg shadow-blue-600/25">
+            <a href="https://github.com/Sync-Pro/x3code-releases/raw/master/X3Code%20Setup%201.0.0.exe" className="flex items-center gap-2 px-8 py-4 bg-blue-600 text-white rounded-lg font-semibold text-lg hover:bg-blue-700 transition-all hover:scale-105 shadow-lg shadow-blue-600/25">
               Download for Windows <VscArrowRight className="group-hover:translate-x-1 transition-transform" />
             </a>
             <a href="#features" className="px-8 py-4 border border-gray-200 rounded-lg font-semibold text-lg hover:border-blue-600 hover:text-blue-600 transition-colors">
@@ -104,7 +104,7 @@ export const Landing: React.FC = () => {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-6">Get started today</h2>
           <p className="text-xl text-gray-400 mb-10">Download X3Code for free</p>
-          <a href="https://github.com/Sync-Pro/t3code-releases/raw/master/X3Code%20Setup%201.0.0.exe" target="_blank" className="inline-flex items-center gap-2 px-8 py-4 bg-blue-600 rounded-lg font-semibold hover:bg-blue-700">
+          <a href="https://github.com/Sync-Pro/x3code-releases/raw/master/X3Code%20Setup%201.0.0.exe" target="_blank" className="inline-flex items-center gap-2 px-8 py-4 bg-blue-600 rounded-lg font-semibold hover:bg-blue-700">
             <VscCode /> Download for Windows
           </a>
         </div>
@@ -118,7 +118,7 @@ export const Landing: React.FC = () => {
             <span className="text-gray-500">The best way to code with AI</span>
           </div>
           <div className="flex items-center gap-6">
-            <a href="https://github.com/Sync-Pro/t3code-landing" className="text-gray-500 hover:text-blue-600">GitHub</a>
+            <a href="https://github.com/Sync-Pro/x3code-landing" className="text-gray-500 hover:text-blue-600">GitHub</a>
             <a href="https://discord.com" className="text-gray-500 hover:text-blue-600">Community</a>
           </div>
         </div>
